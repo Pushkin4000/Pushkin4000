@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pushkin Ranjan</h1>
 <h3 align="center">A passionate Gen-AI Developer from India.</h3>
 
-- 🌱 I’m currently learning **AI/ML, Node.js, Java Script**
+- 🌱 I’m currently learning **AI/ML, Agentic AI, Orchestrating AI Agents**
 
-- 💬 Ask me about **RAG, Vector Data Bases, Gen-AI, Machine Learning**
+- 💬 Ask me about **RAG, Vector Data Bases, Gen-AI, Machine Learning, OpenClaw**
 
 - 📫 How to reach me **pushkinranjan4000@gmail.com**
 
